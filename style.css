@@ -8,7 +8,15 @@ body {
 
 section {
   scroll-margin-top: 5rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
 .jumbotron {
   padding-top: 7rem;
   background-color: #700b97;
@@ -17,4 +25,14 @@ section {
 
 #projects {
   background-color: #700b97;
+  color: white;
+}
+
+#projects img {
+  height: 414px;
+}
+
+.logo img {
+  width: 24px;
+  height: 24px;
 }
